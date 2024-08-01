@@ -2,9 +2,9 @@
 
 I'm a Software Engineer interested in progressive political technology. Previously, I've spent many years working in educational technology.
 
-I'm did a batch at [Recurse Center](https://www.recurse.com/) where I'm learned about lower level coding via learning about binary exploitation, doing the Nand2Tetris course, and collaborating with other Recursers.
-
 I currently work at Civitech, working on political tech/
+
+I'm did a batch at [Recurse Center](https://www.recurse.com/) where I'm learned about lower level coding via learning about binary exploitation, doing the Nand2Tetris course, and collaborating with other Recursers.
 
 One of my favorite projects I've worked on is [Meme It So](https://memeit.so), a Star Trek The Next Generation meme generator.
 
